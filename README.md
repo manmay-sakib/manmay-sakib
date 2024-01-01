@@ -1,19 +1,23 @@
-<h1 align="center">Hi 👋, I'm Manmay Sakib</h1>
-<h3 align="center">A passionate Flutter developer from Bangladesh</h3>
+<h1 align="center">Hi 👋, I'm Sakib Khan </h1>
+<h3 align="center">A passionate Android and Flutter developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manmay-sakib&label=Profile%20views&color=0e75b6&style=flat" alt="manmay-sakib" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manmay-sakib" alt="manmay-sakib" /></a> </p>
 
-- 🔭 I’m currently working on **hangs app**
+- 🔭 I’ve worked on **hangs app**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’ve learned **Flutter**
+  
+-  🌱 I’ve learned **Jetpack Compose**
 
 - 👯 I’m looking to collaborate on **open source projects**
 
 - 💬 Ask me about **Flutter**
+  
+- 💬 Ask me about **JetPack Compose**
 
-- 📫 How to reach me **manmoy.sakib@gmail.com**
+- 📫 How to reach me **sakibkhan.career@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
